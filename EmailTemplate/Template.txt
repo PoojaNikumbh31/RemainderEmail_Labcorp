@@ -1,0 +1,5 @@
+"Hi {fname},"+Environment.NewLine+Environment.NewLine+"This is important, time sensitive and regarding your employment at LabCorp."+Environment.NewLine"
+"We were just reviewing your file and it appears you have not yet completed the following tests, which are required to be completed before your {EndDate}:"
++"{2}"
++"Please see the original email below and the attached registration documents."+Environment.NewLine+Environment.NewLine+
+"If you have completed these requirements, please immediately respond to this email with the date and approximate time of your visit(s) so we can follow up directly with the clinic(s). If you have any questions or concerns, please respond to this email with the relevant details so we can properly assist you."+Environment.NewLine+"Thank you!"+Environment.NewLine+"Sterling &amp; Labcorp"

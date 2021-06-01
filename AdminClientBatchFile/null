@@ -1,0 +1,20 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, April 26, 2021 2:52:38 PM
+   Source : \\pbtpfil01\AdminClient_Prod\
+     Dest : c:\Admin Client\Client\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1 /W:5 
+
+------------------------------------------------------------------------------
+
+	                 190	\\pbtpfil01\AdminClient_Prod\
+	    Newer     		  24.7 m	absCore.dll
+2021/04/26 14:52:38 ERROR 32 (0x00000020) Copying File \\pbtpfil01\AdminClient_Prod\absCore.dll
+The process cannot access the file because it is being used by another process.
+Waiting 5 seconds...

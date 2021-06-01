@@ -1,0 +1,14 @@
+file://BTPDEVW100177/Users/Shubham.Pratap/Documents/RPA%20Projects/CA
+
+
+fdd523e8-6e94-481f-9d88-f2cead34bcfc
+
+ReminderBOT
+A2gX5aC2b
+
+
+gajbhiym
+Sterling23
+
+noOfdaysinceregistered --- row("Business Days Since Registered").ToString
+remainderemailsubjecline--- row("Reminder Email Subject Line").ToString

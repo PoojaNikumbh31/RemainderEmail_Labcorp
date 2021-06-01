@@ -1,0 +1,8 @@
+<p>Hi {0},</p>
+<p>This is important, time sensitive and regarding your employment at LabCorp.</p>
+<p>We were just reviewing your file and it appears you have not yet completed the following tests, which are required to be completed before your {1}:</p>
+{2}
+<p>Please see the original email below and the attached registration documents.</p>
+<p>If you have completed these requirements, please immediately respond to this email with the date and approximate time of your visit(s) so we can follow up directly with the clinic(s). If you have any questions or concerns, please respond to this email with the relevant details so we can properly assist you.</p>
+<p>Thank you!</p>
+<p>Sterling &amp; Labcorp</p>
